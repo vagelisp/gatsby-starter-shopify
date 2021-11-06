@@ -23,6 +23,7 @@ module.exports = {
         shopifyConnections: ["collections"],
       },
     },
+	"gatsby-plugin-postcss",
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
